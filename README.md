@@ -2,7 +2,7 @@
 - 👀 I’m interested in become a front end developer;
 - 🌱 I’m currently learning HTML, CSS e JS;
 - 💞️ I’m looking to collaborate on whenever i know and can about HTML, CSS and JS;
-- 📫 To find me, just send me an email to fonsecafael@gmail.com or access my intagran looking for Rafael Fonseca;
+- 📫 To find me, just send me an email to fonsecafael@gmail.com or access my linkedin in adress linkedin.com/in/fonsecafaell;
 
 <!---
 fonsecafael/fonsecafael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
